@@ -1,6 +1,7 @@
-requests>=2.31.0
-openai>=1.3.0
-python-dotenv>=1.0.0
-pyyaml>=6.0
-click>=8.1.0
-rich>=13.0.0
+# AI Pro Prompts Dependencies - Latest 2025 Versions
+requests>=2.32.5,<3.0.0
+openai>=2.14.0,<3.0.0
+python-dotenv>=1.2.1,<2.0.0
+pyyaml>=6.0.3,<7.0.0
+click>=8.3.1,<9.0.0
+rich>=14.2.0,<15.0.0
