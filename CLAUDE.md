@@ -71,12 +71,12 @@ Templates are organized in two parallel structures:
 
 #### Key Dependencies
 ```
-requests>=2.31.0       # HTTP client for API calls
-openai>=1.3.0         # OpenAI API integration
-python-dotenv>=1.0.0  # Environment configuration
-pyyaml>=6.0           # YAML parsing
-click>=8.1.0          # CLI framework
-rich>=13.0.0          # Terminal formatting/tables
+requests>=2.32.5       # HTTP client for API calls
+openai>=2.14.0        # OpenAI API integration
+python-dotenv>=1.2.1  # Environment configuration
+pyyaml>=6.0.3         # YAML parsing
+click>=8.3.1          # CLI framework
+rich>=14.2.0          # Terminal formatting/tables
 ```
 
 ### LLM Backends
