@@ -96,7 +96,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -123,7 +122,6 @@ dmypy.json
 .pyre/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -138,3 +136,5 @@ local_*.py
 # Generated files
 generation-logs/
 *.tmp.md
+config.bat
+node_modules
