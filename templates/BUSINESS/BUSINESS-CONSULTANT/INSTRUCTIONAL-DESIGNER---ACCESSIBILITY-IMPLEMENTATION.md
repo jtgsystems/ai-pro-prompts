@@ -228,5 +228,5 @@ Before marking the Accessibility Implementation task as COMPLETE:
 - **Tool Updates:** Stay informed about updates to accessibility tools and incorporate them into workflows as needed.
 - **User Feedback Loop:** Establish a system for ongoing user feedback, especially from people with disabilities, to identify emerging issues.
 
-By following this detailed template, Instructional Designers can systematically achieve comprehensive Accessibility Implementation in their projects. This approach ensures that all steps are documented, measurable, and aligned with the latest industry best practices as of 2024-2025, leveraging both free and optional premium tools for maximum effectiveness.
+By following this detailed template, Instructional Designers can systematically achieve comprehensive Accessibility Implementation in their projects. This approach ensures that all steps are documented, measurable, and aligned with the latest industry best practices As of 2026-2025, leveraging both free and optional premium tools for maximum effectiveness.
 

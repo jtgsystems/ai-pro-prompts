@@ -8,7 +8,7 @@
 
 1. **Grant Proposal Fundamentals**
    - Current State: Understanding latest templates and structures
-   - Target Sources: Grant writing books (2024 editions), online courses, professional associations
+   - Target Sources: Grant writing books (2026 Editions), online courses, professional associations
    - Deliverable: Updated proposal template with sections prioritized by funding body importance
 
 2. **Funding Body Criteria**

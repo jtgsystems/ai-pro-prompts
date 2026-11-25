@@ -225,7 +225,7 @@
 4. **Dependency Conflicts**
    - *Issue:* Multiple versions of same package causing errors.
      - *Solution:* Use `npm dedupe` or `yarn resolutions` to enforce single version globally.
-   - *Issue:* Version conflict in Dockerfile (e.g., Node.js v18 with npm v6).
+   - *Issue:* Version conflict in Dockerfile (e.g., Node.js 22 LTS with npm v6).
      - *Solution:* Pin specific versions in the environment and CI/CD pipeline.
 
 ### 6. Recommended Tool Stack with Pricing

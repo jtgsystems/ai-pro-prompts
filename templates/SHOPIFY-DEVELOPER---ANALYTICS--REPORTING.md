@@ -271,5 +271,5 @@ Before marking the task as COMPLETE:
 
 --- 
 
-This template is now fully customized for a **Shopify Developer focusing on Analytics & Reporting**, complete with actionable steps, tools, and metrics. It's designed to be immediately executable by someone new to the role while aligning with best practices as of 2025.
+This template is now fully customized for a **Shopify Developer focusing on Analytics & Reporting**, complete with actionable steps, tools, and metrics. It's designed to be immediately executable by someone new to the role while aligning with best practices As of 2026.
 

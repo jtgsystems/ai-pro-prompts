@@ -314,7 +314,7 @@ last_updated: "2025-04-05"
 version: 1.0
 tested_with:
   - Python 3.9
-  - Node.js 18
+  - Node.js 22 LTS
 success_rate: 85%
 average_time_goal: "14 days"
 ```

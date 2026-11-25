@@ -236,5 +236,5 @@
 
 **Total Estimated Time:** 51-59 business days
 
-This template provides a comprehensive roadmap for a Project Manager to achieve Scope Definition. It is designed to be actionable for beginners while incorporating the latest best practices and AI integration opportunities as of 2024-2025.
+This template provides a comprehensive roadmap for a Project Manager to achieve Scope Definition. It is designed to be actionable for beginners while incorporating the latest best practices and AI integration opportunities As of 2026-2025.
 

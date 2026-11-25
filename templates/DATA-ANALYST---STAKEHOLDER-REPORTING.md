@@ -22,7 +22,7 @@
 
 **Topic 3: Statistical Analysis Methods**
 - Research Focus: Regression modeling best practices, hypothesis testing guidelines, Bayesian approaches.
-- Target Sources: SAS regression analysis book (2024 edition), Jupyter notebooks for statistical tests.
+- Target Sources: SAS regression analysis book (2026 Edition), Jupyter notebooks for statistical tests.
 
 **Topic 4: Data Visualization Trends**
 - Research Focus: Interactive dashboards using D3.js or React-based visualizations, storytelling with data principles.

@@ -5,7 +5,32 @@ Generates professional AI agent templates using Granite4 (Ollama) or OpenAI.
 """
 
 import os
-import json
+try:
+    import orjson
+
+    class _JsonFastAdapter:
+        JSONDecodeError = orjson.JSONDecodeError
+        @staticmethod
+        def loads(obj, **kwargs):
+            return orjson.loads(obj)
+        @staticmethod
+        def dumps(obj, **kwargs):
+            opt = 0
+            if kwargs.pop("sort_keys", False):
+                opt |= orjson.OPT_SORT_KEYS
+            if kwargs.pop("indent", None):
+                opt |= orjson.OPT_INDENT_2
+            return orjson.dumps(obj, option=opt).decode("utf-8")
+        @staticmethod
+        def load(fp, **kwargs):
+            return orjson.loads(fp.read())
+        @staticmethod
+        def dump(obj, fp, **kwargs):
+            fp.write(_JsonFastAdapter.dumps(obj, **kwargs))
+
+    json = _JsonFastAdapter()
+except ImportError:
+    import json
 from typing import Optional, Dict, Any
 from dotenv import load_dotenv
 import requests

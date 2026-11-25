@@ -62,7 +62,7 @@ List what information the agent needs to start:
 
 **Topic 3:** SEO for Webinar Content
 - Research Focus: On-page SEO techniques to boost webinar discoverability.
-- Target Sources: Moz Beginner's Guide to SEO (2024 edition).
+- Target Sources: Moz Beginner's Guide to SEO (2026 Edition).
 
 **Topic 4:** Email Sequence Optimization
 - Research Focus: Optimal cadence and content mix for pre-webinar emails.

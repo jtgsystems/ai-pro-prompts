@@ -37,7 +37,7 @@ List what information the agent needs to start:
 
 **Topic 1:** Shopify SEO Fundamentals
 - Research Focus: Core SEO principles specific to Shopify themes and app ecosystem.
-- Target Sources: Shopify official documentation, E-commerce SEO blogs (2024 editions).
+- Target Sources: Shopify official documentation, E-commerce SEO blogs (2026 Editions).
 
 **Topic 2:** Keyword Optimization Strategies
 - Research Focus: How to leverage long-tail keywords effectively in product pages and categories.

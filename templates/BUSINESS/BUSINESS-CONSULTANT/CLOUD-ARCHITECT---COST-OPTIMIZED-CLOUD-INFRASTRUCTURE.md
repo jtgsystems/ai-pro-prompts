@@ -176,5 +176,5 @@
 - [ ] Compliance scans report zero critical findings.
 - [ ] A sustainable monitoring and review process is established.
 
-This comprehensive template provides a clear roadmap for cloud architects to achieve cost optimization in their infrastructure, leveraging the latest best practices as of 2024-2025.
+This comprehensive template provides a clear roadmap for cloud architects to achieve cost optimization in their infrastructure, leveraging the latest best practices As of 2026-2025.
 

@@ -111,5 +111,5 @@
 4. **Weeks 7-8**: Plugin Integration and Testing Across Browsers
 5. **Weeks 9-10**: Final Review, Documentation, and Deployment
 
-This template provides a structured approach to WordPress Theme Customization tailored for beginners in the field of web design as of 2024-2025, emphasizing AI integration and best practices.
+This template provides a structured approach to WordPress Theme Customization tailored for beginners in the field of web design As of 2026-2025, emphasizing AI integration and best practices.
 

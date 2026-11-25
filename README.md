@@ -707,7 +707,7 @@ print(agent.report())
 MIT License - Free to use, modify, and distribute!
 
 ```
-Copyright (c) 2025 JTGSYSTEMS.COM
+Copyright 2026 JTGSYSTEMS.COM
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

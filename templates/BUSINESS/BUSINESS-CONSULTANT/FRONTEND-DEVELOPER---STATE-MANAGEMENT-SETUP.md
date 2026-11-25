@@ -193,7 +193,7 @@ experience_level: "Beginner to Intermediate"
    - Ensure all placeholders are replaced with relevant details specific to the project and framework used.
 
 2. **Define 10-20 Critical Topics**
-   - Tailor the critical knowledge areas based on the latest trends, tools, and methodologies in frontend development as of 2024-2025.
+   - Tailor the critical knowledge areas based on the latest trends, tools, and methodologies in frontend development As of 2026-2025.
 
 3. **Map Ultimate Goal to Measurable Outcomes**
    - Use SMART criteria to define success metrics for state management setup.
